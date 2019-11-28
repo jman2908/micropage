@@ -1,7 +1,10 @@
 
-Date: 11/17/2019
-Name: Rupp Arena
-Country: KY
+---------------------------------------------------
+
+City: Las Vegas
+Date: 12/30/2019
+Name: Mandalay Bay Events Center
+Country: NV
 Country: United States
 
 ---------------------------------------------------
@@ -9,151 +12,98 @@ Country: United States
 
 ---------------------------------------------------
 
-Date: 11/19/2019
-
----------------------------------------------------
-
-Name: State Farm Arena
-City: Atlanta
-Country: GA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/22/2019
-Name: PNC Arena
-City: Raleigh
-Country: NC
-
----------------------------------------------------
-
-Date: 11/24/2019
-Name: Amalie Arena
-City: Tampa
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/25/2019
-Name: Amway Center
-City: Orlando
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/27/2019
-Name: American Airlines Arena
-City: Miami
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 12/01/2019
-Name: VyStar Veterans Memorial Arena
-City: Jacksonville
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 12/03/2019
-Name: Colonial Life Arena
-City: Columbia
-Country: SC
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 12/05/2019
-Name: Bridgestone Arena
-City: Nashville
-Country: TN
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 12/07/2019
-Name: FedEx Forum
-City: Memphis
-Country: TN
-
----------------------------------------------------
-
-Country: United States
-Date: 12/09/2019
-
----------------------------------------------------
-
-Name: American Airlines Center
-City: Dallas
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 12/12/2019
-Name: Talking Stick Resort Arena
-Country: AZ
-City: Phoenix
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 12/13/2019
-Name: Honda Center
-City: Anaheim
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Name: Grand Garden Arena
-Date: 12/15/2019
+Date: 12/31/2019
+Name: Mandalay Bay Events Center
 City: Las Vegas
 Country: NV
-
----------------------------------------------------
-
 Country: United States
 
 ---------------------------------------------------
 
-Date: 12/17/2019
-Name: Chase Center Experience
-Country: CA
+Date: 02/23/2020
+Name: Foro Sol
+
+---------------------------------------------------
+
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/01/2020
+Name: Allianz Parque
+City: Sao Paulo
+Country: Brazil
+
+---------------------------------------------------
+
+Date: 03/03/2020
+
+---------------------------------------------------
+
+Name: Mané Garrincha Stadium
+City: Brasilia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/05/2020
+Name: Esplanada Do Classic Hall
+City: Recife
+
+---------------------------------------------------
+
+Country: Brazil
+City: Mexico
+Date: 03/07/2020
+Name: Area Externa Da Jeunesse Arena
+Country: Brazil
+City: Rio De Janeiro
+
+---------------------------------------------------
+
+Country: Brazil
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2020
+Name: Estadio Centenario
+City: Montevideo
+Country: Uruguay
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/12/2020
+Name: Campo Argentino De Polo
+City: Buenos Aires
+Country: Argentina
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/14/2020
+Name: Parque Salitre Magico
+City: Bogota
+Country: Colombia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/30/2019
 Country: United States
 
 ---------------------------------------------------
@@ -161,10 +111,10 @@ Country: United States
 
 ---------------------------------------------------
 
-Date: 12/18/2019
-Name: Chase Center Experience
-City: San Francisco
-Country: CA
+Date: 12/31/2019
+Name: Mandalay Bay Events Center
+City: Las Vegas
+Country: NV
 Country: United States
 
 ---------------------------------------------------
@@ -172,64 +122,129 @@ Country: United States
 
 ---------------------------------------------------
 
-Date: 12/21/2019
-Name: The Forum
-City: Los Angeles
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Name: The Forum
-
----------------------------------------------------
-
-Country: CA
-City: Los Angeles
-Date: 12/22/2019
-Country: United States
+Date: 02/23/2020
+Name: Foro Sol
+City: Mexico
+Country: Mexico
 
 ---------------------------------------------------
 
 
 ---------------------------------------------------
 
-City: San Francisco
-City: Lexington
-Country: United States
-
----------------------------------------------------
-
-Title: Mr. Nobody
-Release Year: 2009
-IMDB Rating: 7.8
-Rotten Tomatoes Rating: 67%
-Country: Belgium, Germany, Canada, France, USA, UK
-Language: English, Mohawk
-Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Date: 03/01/2020
+Name: Allianz Parque
+City: Sao Paulo
+Country: Brazil
 
 ---------------------------------------------------
 
 
 ---------------------------------------------------
 
-IMDB Rating: 7.8
-Language: English, Russian
+Date: 03/03/2020
+Name: Mané Garrincha Stadium
+Country: Brazil
+City: Brasilia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/05/2020
+Name: Esplanada Do Classic Hall
+City: Recife
+Country: Brazil
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Area Externa Da Jeunesse Arena
+City: Rio De Janeiro
+Country: Brazil
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2020
+Name: Estadio Centenario
+City: Montevideo
+Country: Uruguay
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/12/2020
+Name: Campo Argentino De Polo
+City: Buenos Aires
+Country: Argentina
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/14/2020
+Name: Parque Salitre Magico
+City: Bogota
+Country: Colombia
+
+---------------------------------------------------
+
+City: Las Vegas
+Country: NV
+Name: Mandalay Bay Events Center
+
+---------------------------------------------------
+
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=b16d7bf747ec4198b934108981dfb860
+Artist: Ace of Base
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Release Year: 1994
+Title: The Shawshank Redemption
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 90%
 Country: USA
-Plot: A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.
-Actors: Paul Sanchez, Lari White, Leonid Citer, David Allen Brooks
+IMDB Rating: 9.3
 
 ---------------------------------------------------
 
-Release Year: 2000
-Title: Cast Away
-Rotten Tomatoes Rating: 88%
-Artist: Backstreet Boys
+Title: Star Wars: Episode IV - A New Hope
+Release Year: 1977
+Rotten Tomatoes Rating: 93%
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+---------------------------------------------------
+
+Country: USA
+Language: English
+IMDB Rating: 8.6
+
+---------------------------------------------------
+
 Album: The Hits--Chapter One
-
----------------------------------------------------
-
+Artist: Backstreet Boys
 Song: I Want It That Way
 Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b16d7bf747ec4198b934108981dfb860
 
